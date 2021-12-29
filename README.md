@@ -1,6 +1,6 @@
 # BookStore_Assembly
 Assembly Project
-<h1 align="center">Assembly Project 💻></h1>
+<h1 align="center">Assembly Project 💻📚</h1>
 
 ## Project Team :
 
